@@ -1,6 +1,6 @@
 '''
 
-Experiment Number 2 : Write a python program to store marks stored in subject "Fundamentals of Data Structure" by
+Experiment Number 1 : Write a python program to store marks stored in subject "Fundamentals of Data Structure" by
                          N students in the class. Write functions to compute following:
                          1. The average score of the class.
                          2. Highest score and lowest score of the class.
